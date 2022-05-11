@@ -10,11 +10,13 @@ I have been forced to make this page while i could sleep at home nicely. Trust m
 ## Dream
 ### Relax
 
-- Bulleted
-- List
+- The different ways you can HUGA MARA KHA.
+- Huga Mara Kha List.
 
-1. Numbered
-2. List
+1. Offline class
+2. Online class
+3. Sleeping during the class.
+4. 
 
 **Bold** and _Italic_ and `Code` text
 
